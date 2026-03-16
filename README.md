@@ -8,7 +8,7 @@ Este espaço é dedicado ao armazenamento e organização de todos os códigos, 
 ## Tecnologias Utilizadas
 * **Hardware:** Arduino, Sensores, Atuadores e Componentes Eletrônicos diversos.
 * **Software/Linguagens:** C/C++ (Arduino IDE).
-* **Prototipagem:** [Inserir ferramenta usada, ex: Tinkercad, Fritzing].
+* **Prototipagem:** Tinkercad
 
 ## Estrutura de Diretórios
 
