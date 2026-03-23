@@ -16,9 +16,9 @@ A organização das pastas segue a ordem cronológica e temática dos projetos:
 
 ```text
 📦 robotica-inclusiva-unicap
- ┣ 📂 01-introducao-sensores    # Códigos das primeiras aulas práticas
- ┣ 📂 02-projeto-sinalizacao    # [Exemplo] Sistema de LED/Buzzer
- ┣ 📂 03-projeto-final          # Código e documentação do projeto de conclusão
+ ┣ 📂 01-introducao-sensores
+ ┣ 📂 02-projeto-sinalizacao
+ ┣ 📂 03-projeto-final
  ┗ 📜 README.md
 
 ```
