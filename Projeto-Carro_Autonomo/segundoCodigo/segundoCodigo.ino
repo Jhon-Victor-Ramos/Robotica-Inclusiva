@@ -34,13 +34,25 @@ void setup()
 
 void loop()
 {
+    double dist_cm1 = distancia(); // Mede a distância do objeto à frente do carrinho
+    Serial.println("dist_cm1: ");
+    Serial.println(dist_cm1); // Exibe a distância
+    Serial.println("\n");
+
+    if (dist_cm1 < 20)   // Se distância menor que 20cm
+    {
+        decisao();      // Toma a decisão (parar, virar, etc.)
+    }
+    
     // Robô anda para frente
     robo_frente();
 
-    float dist_cm = distancia(); // Mede a distância do obstáculo
-    Serial.println(dist_cm);
+    double dist_cm2 = distancia(); // Mede a distância do obstáculo
+    Serial.println("dist_cm2: ");
+    Serial.println(dist_cm2); // Exibe a distância
+    Serial.println("\n");
 
-    if (dist_cm < 20)   // Se distância menor que 20cm
+    if (dist_cm2 < 20)   // Se distância menor que 20cm
     {
         decisao();      // Toma a decisão (parar, virar, etc.)
     }
@@ -49,7 +61,7 @@ void loop()
 }
 
 // Função que mede a distância em cm
-float distancia()
+double distancia()
 {
   return ultrasonic.distanceRead();
 }
