@@ -15,16 +15,16 @@ Este espaço é dedicado ao armazenamento e organização de todos os códigos, 
 A organização das pastas segue a ordem cronológica e temática dos projetos:
 
 ```text
-📦 robotica-inclusiva-unicap
+ 📂 robotica-inclusiva-unicap
  ┣ 📂 introducao-sensores 
- ┃  ┗ codigo.ino
- ┃  ┗ README.md
+ ┃  ┣ 📜 codigo.ino
+ ┃  ┗ 📜 README.md
  ┣ 📂 projeto-sinalizacao 
- ┃  ┗ codigo.ino
- ┃  ┗ README.md
+ ┃  ┣ 📜 codigo.ino
+ ┃  ┗ 📜 README.md
  ┣ 📂 projeto-final 
- ┃  ┗ codigo.ino
- ┃  ┗ README.md
+ ┃  ┣ 📜 codigo.ino
+ ┃  ┗ 📜 README.md
  ┗ 📜 README.md
 ```
 
