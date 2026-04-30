@@ -16,11 +16,16 @@ A organização das pastas segue a ordem cronológica e temática dos projetos:
 
 ```text
 📦 robotica-inclusiva-unicap
- ┣ 📂 01-introducao-sensores
- ┣ 📂 02-projeto-sinalizacao
- ┣ 📂 03-projeto-final
+ ┣ 📂 introducao-sensores 
+ ┃  ┗ codigo.ino
+ ┃  ┗ README.md
+ ┣ 📂 projeto-sinalizacao 
+ ┃  ┗ codigo.ino
+ ┃  ┗ README.md
+ ┣ 📂 projeto-final 
+ ┃  ┗ codigo.ino
+ ┃  ┗ README.md
  ┗ 📜 README.md
-
 ```
 
  Cada pasta de projeto contém seu próprio `README.md` detalhando o objetivo específico, o esquema de montagem do circuito e as dependências necessárias.
