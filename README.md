@@ -1,6 +1,6 @@
 # Robótica Inclusiva
 
-Bem-vindo ao repositório da disciplina de **Robótica Inclusiva**, cursada durante o 4º período do bacharelado em Ciência da Computação na UNICAP.
+Olá, esse é o repositório da disciplina de **Robótica Inclusiva**, cursada durante o 4º período do bacharelado em Ciência da Computação na UNICAP.
 
 ## Sobre o Repositório
 Este espaço é dedicado ao armazenamento e organização de todos os códigos, esquemas de circuitos e documentações dos projetos práticos desenvolvidos ao longo do semestre. O foco principal da disciplina é utilizar a tecnologia e a robótica para criar soluções de acessibilidade e promover a inclusão.
